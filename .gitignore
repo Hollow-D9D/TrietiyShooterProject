@@ -1,4 +1,5 @@
 ShooterProject/.vs/
+ShooterProject/.vscode/
 
 ShooterProject/Binaries/Win64/ShooterProjectEditor.target
 ShooterProject/Binaries/Win64/UnrealEditor-ShooterProject.dll
@@ -179,3 +180,15 @@ ShooterProject/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 ShooterProject/DerivedDataCache/*
+
+# Makefiles
+ShooterProject/Makefile
+
+# VSCode Workspace
+ShooterProject/*.code-workspace
+
+# Source folder
+ShooterProject/Source/
+
+# Project ignore file
+ShooterProject/.ignore
